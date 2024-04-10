@@ -1,0 +1,18 @@
+table {
+  border-spacing: 0px;
+}
+
+td {
+  width: 40px;
+  height: 40px;
+  margin: 0px;
+  border: 2px solid gray;
+  font-size: 30px;
+}
+#placeFlag {
+  width: 30px;
+  height: 30px;
+}
+label {
+  font-size: 30px;
+}
